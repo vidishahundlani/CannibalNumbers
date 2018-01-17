@@ -17,3 +17,5 @@
 
 #The result is:
 #4 2
+
+#Coded it in C++
